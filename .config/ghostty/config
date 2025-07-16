@@ -1,0 +1,5 @@
+background-opacity = 0.95
+background-blur = true
+bold-is-bright = true
+theme = catppuccin-mocha
+macos-titlebar-style = tabs
